@@ -11,4 +11,4 @@ Thread `i` should work on block heights whose remainder is `i` when divided by 1
 By doing this you could expect 16 times speed up, which means if single threaded code
 takes 2hrs = 120 min, multi threaded code might finish in 8 mins.
 
-# Find areas in your week 6 assignment which you can parallelize
+# Find areas in your week 5 assignment which you can parallelize
